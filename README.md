@@ -1,5 +1,7 @@
 # MEGA PIXEL
 
+Was my first project, made in 2021
+
 ## LINK TO PLAY THIS GAME
 
 ```
